@@ -1,0 +1,7 @@
+name: environment name
+dependencies:
+ - requests
+ - beautifulsoup4
+ - selenium
+ - jupyterlab
+ - scrapy
